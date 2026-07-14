@@ -4,6 +4,9 @@ import static net.kdt.pojavlaunch.Tools.openPath;
 import static net.kdt.pojavlaunch.Tools.shareLog;
 
 import android.content.Intent;
+import android.view.animation.Animation;
+import android.view.animation.AnimationUtils;
+import androidx.cardview.widget.CardView;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
